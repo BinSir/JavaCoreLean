@@ -1,0 +1,2 @@
+# JavaCoreLean
+about javaCore
